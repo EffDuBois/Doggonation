@@ -1,4 +1,4 @@
-# Doggonation - Where Dogs and Their Owners Unite: Welcome to Doggonation (Looking for frontend devs)
+# Doggonation - Where Dogs and Their Owners Unite: Welcome to Doggonation
 <br/>
 <div align="center">
   <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
